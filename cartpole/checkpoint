@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hedonist/Documents/openai_gdnnc/cartpole/model_save"
+all_model_checkpoint_paths: "/home/hedonist/Documents/openai_gdnnc/cartpole/model_save"
